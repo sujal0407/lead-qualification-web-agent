@@ -17,6 +17,102 @@ data = [
         "Email": "emily.carter@liverabiotech.com"
     },
     {
+        "Name": "Dr. Sarah Mitchell",
+        "Title": "Head of Preclinical Safety",
+        "Company": "HepatoRx",
+        "Person Location": "Boston, MA",
+        "Company HQ": "Boston, MA",
+        "Funding Stage": "Series A",
+        "Published DILI Paper (Last 2Y)": True,
+        "Uses In-Vitro / NAMs": True,
+        "LinkedIn": "https://linkedin.com/in/sarahmitchell",
+        "Email": "sarah.mitchell@hepatorx.com"
+    },
+    {
+        "Name": "Dr. Luca Romano",
+        "Title": "VP Safety Assessment",
+        "Company": "NeoLiver Therapeutics",
+        "Person Location": "Basel, Switzerland",
+        "Company HQ": "Basel, Switzerland",
+        "Funding Stage": "Series B",
+        "Published DILI Paper (Last 2Y)": True,
+        "Uses In-Vitro / NAMs": True,
+        "LinkedIn": "https://linkedin.com/in/lucaromano",
+        "Email": "luca.romano@neoliver.com"
+    },
+    {
+        "Name": "Dr. Michael Thompson",
+        "Title": "Principal Scientist, Toxicology",
+        "Company": "OncoSafe Bio",
+        "Person Location": "San Diego, CA",
+        "Company HQ": "San Diego, CA",
+        "Funding Stage": "Series A",
+        "Published DILI Paper (Last 2Y)": False,
+        "Uses In-Vitro / NAMs": True,
+        "LinkedIn": "https://linkedin.com/in/michaelthompson",
+        "Email": "michael.thompson@oncosafebio.com"
+    },
+    {
+        "Name": "Dr. Ananya Rao",
+        "Title": "Associate Director, Safety Pharmacology",
+        "Company": "CardioNova",
+        "Person Location": "Remote (India)",
+        "Company HQ": "Cambridge, MA",
+        "Funding Stage": "Series B",
+        "Published DILI Paper (Last 2Y)": False,
+        "Uses In-Vitro / NAMs": True,
+        "LinkedIn": "https://linkedin.com/in/ananyarao",
+        "Email": "ananya.rao@cardionova.com"
+    },
+    {
+        "Name": "Dr. James Wilson",
+        "Title": "Senior Scientist, Investigative Toxicology",
+        "Company": "PharmaCore",
+        "Person Location": "New Jersey",
+        "Company HQ": "New Jersey",
+        "Funding Stage": "Public Company",
+        "Published DILI Paper (Last 2Y)": False,
+        "Uses In-Vitro / NAMs": False,
+        "LinkedIn": "https://linkedin.com/in/jameswilson",
+        "Email": "james.wilson@pharmacore.com"
+    },
+    {
+        "Name": "Dr. Sophie Laurent",
+        "Title": "Director of Translational Toxicology",
+        "Company": "BioLiver SA",
+        "Person Location": "Paris, France",
+        "Company HQ": "Paris, France",
+        "Funding Stage": "Series A",
+        "Published DILI Paper (Last 2Y)": True,
+        "Uses In-Vitro / NAMs": True,
+        "LinkedIn": "https://linkedin.com/in/sophielaurent",
+        "Email": "sophie.laurent@bioliver.fr"
+    },
+    {
+        "Name": "Dr. Kevin Park",
+        "Title": "Head of Safety Sciences",
+        "Company": "GenNext Therapeutics",
+        "Person Location": "Bay Area, CA",
+        "Company HQ": "South San Francisco, CA",
+        "Funding Stage": "Series B",
+        "Published DILI Paper (Last 2Y)": True,
+        "Uses In-Vitro / NAMs": True,
+        "LinkedIn": "https://linkedin.com/in/kevinpark",
+        "Email": "kevin.park@gennexttx.com"
+    },
+    {
+        "Name": "Dr. Maria Gonzalez",
+        "Title": "Senior Director, Preclinical Development",
+        "Company": "LiverAxis",
+        "Person Location": "Madrid, Spain",
+        "Company HQ": "Boston, MA",
+        "Funding Stage": "Series A",
+        "Published DILI Paper (Last 2Y)": False,
+        "Uses In-Vitro / NAMs": True,
+        "LinkedIn": "https://linkedin.com/in/mariagonzalez",
+        "Email": "maria.gonzalez@liveraxis.com"
+    },
+    {
         "Name": "Dr. Alex Wong",
         "Title": "Junior Scientist",
         "Company": "BioStart",
@@ -29,6 +125,7 @@ data = [
         "Email": "alex.wong@biostart.com"
     }
 ]
+
 
 df = pd.DataFrame(data)
 

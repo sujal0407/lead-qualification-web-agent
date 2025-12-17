@@ -10,3 +10,11 @@ full-scale web scraping.
 ## Run Instructions
 pip install -r requirements.txt
 streamlit run app/app.py
+
+## Reproducible Demo Output
+
+Google Sheets (generated from code output):
+https://docs.google.com/spreadsheets/d/XXXXXXXX
+
+This sheet is created from the CSV produced by the pipeline and can be
+sorted, filtered, and independently verified.

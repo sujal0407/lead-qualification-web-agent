@@ -1,0 +1,11 @@
+Name,Title,Company,Person Location,Company HQ,Funding Stage,Published DILI Paper (Last 2Y),Uses In-Vitro / NAMs,LinkedIn,Email,Probability Score,Rank
+Dr. Emily Carter,Director of Toxicology,Livera Biotech,Colorado (Remote),"Cambridge, MA",Series B,True,True,https://linkedin.com/in/emilycarter,emily.carter@liverabiotech.com,115,1
+Dr. Sarah Mitchell,Head of Preclinical Safety,HepatoRx,"Boston, MA","Boston, MA",Series A,True,True,https://linkedin.com/in/sarahmitchell,sarah.mitchell@hepatorx.com,115,2
+Dr. Luca Romano,VP Safety Assessment,NeoLiver Therapeutics,"Basel, Switzerland","Basel, Switzerland",Series B,True,True,https://linkedin.com/in/lucaromano,luca.romano@neoliver.com,115,3
+Dr. Sophie Laurent,Director of Translational Toxicology,BioLiver SA,"Paris, France","Paris, France",Series A,True,True,https://linkedin.com/in/sophielaurent,sophie.laurent@bioliver.fr,105,4
+Dr. Kevin Park,Head of Safety Sciences,GenNext Therapeutics,"Bay Area, CA","South San Francisco, CA",Series B,True,True,https://linkedin.com/in/kevinpark,kevin.park@gennexttx.com,105,5
+Dr. Ananya Rao,"Associate Director, Safety Pharmacology",CardioNova,Remote (India),"Cambridge, MA",Series B,False,True,https://linkedin.com/in/ananyarao,ananya.rao@cardionova.com,75,6
+Dr. Maria Gonzalez,"Senior Director, Preclinical Development",LiverAxis,"Madrid, Spain","Boston, MA",Series A,False,True,https://linkedin.com/in/mariagonzalez,maria.gonzalez@liveraxis.com,75,7
+Dr. Michael Thompson,"Principal Scientist, Toxicology",OncoSafe Bio,"San Diego, CA","San Diego, CA",Series A,False,True,https://linkedin.com/in/michaelthompson,michael.thompson@oncosafebio.com,35,8
+Dr. James Wilson,"Senior Scientist, Investigative Toxicology",PharmaCore,New Jersey,New Jersey,Public Company,False,False,https://linkedin.com/in/jameswilson,james.wilson@pharmacore.com,0,9
+Dr. Alex Wong,Junior Scientist,BioStart,"Austin, TX","Austin, TX",Bootstrapped,False,False,https://linkedin.com/in/alexwong,alex.wong@biostart.com,0,10
